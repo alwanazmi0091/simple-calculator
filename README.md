@@ -83,7 +83,7 @@ The display updates dynamically whenever the calculator state changes.
 1. Clone the repository:
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/alwanazmi0091/simple-calculator.git
 ```
 
 2. Open `index.html` in your browser.
